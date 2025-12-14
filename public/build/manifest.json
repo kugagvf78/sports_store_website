@@ -1,0 +1,54 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-CcYc0aCN.css",
+    "src": "resources/css/app.css",
+    "isEntry": true,
+    "names": [
+      "app.css"
+    ]
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-CbAi5TG3.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "imports": [
+      "resources/js/products.js",
+      "resources/js/wishlist.js"
+    ],
+    "css": [
+      "assets/app-jhh0BlLZ.css",
+      "assets/app-CcYc0aCN.css"
+    ]
+  },
+  "resources/js/cart.js": {
+    "file": "assets/cart-Bm6zBMjH.js",
+    "name": "cart",
+    "src": "resources/js/cart.js",
+    "isEntry": true
+  },
+  "resources/js/orders.js": {
+    "file": "assets/orders-07h4Ji0A.js",
+    "name": "orders",
+    "src": "resources/js/orders.js",
+    "isEntry": true
+  },
+  "resources/js/product-show.js": {
+    "file": "assets/product-show-BzAi26U0.js",
+    "name": "product-show",
+    "src": "resources/js/product-show.js",
+    "isEntry": true
+  },
+  "resources/js/products.js": {
+    "file": "assets/products-CDjknjoz.js",
+    "name": "products",
+    "src": "resources/js/products.js",
+    "isEntry": true
+  },
+  "resources/js/wishlist.js": {
+    "file": "assets/wishlist-BrocHCN-.js",
+    "name": "wishlist",
+    "src": "resources/js/wishlist.js",
+    "isEntry": true
+  }
+}
